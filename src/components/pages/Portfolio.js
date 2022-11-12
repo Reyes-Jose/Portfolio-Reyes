@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Moodboard from "../../images/moodboard.png";
-import RestReview from "../../images/restReview.jpg"
+import RestReview from "../../images/RestReview.jpg"
 
 
 export default function Portfolio() {
