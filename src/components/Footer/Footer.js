@@ -7,7 +7,7 @@ const footerStyle = {
     display: "flex",
     justifyContent: "center",
     gap: "2rem",
-    marginTop: "100vh",
+    marginTop: "80vh",
     // position:"absolute",
     // left:"0",
     // bottom: "0px",
