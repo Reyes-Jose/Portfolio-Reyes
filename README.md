@@ -3,16 +3,21 @@
         
 ## Description
         
-This is a portfolio page created using REACT. 
+This is a portfolio page created using REACT.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#Usage)
+- [Tests](#Tests)
 - [Questions](#Questions)
         
 ## Installation
 
 Enter into terminal: npx create-react-app <app name> and then do npm i. 
+
+## Usage
+
+[Portfolio](https://reyes-jose.github.io/portfolio-reyes/)
 
 ## Tests
 
