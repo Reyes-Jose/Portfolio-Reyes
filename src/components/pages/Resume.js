@@ -1,8 +1,16 @@
 import React from "react";
+import { Card } from "react-bootstrap";
+import { CardGroup } from "react-bootstrap/CardGroup";
 
 const container = {
-    display: "flex",
-    justifyContent: "space-evenly",    
+      
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        position: "absolute",
+        height: "80%",
+        width: "100%",
+       
 }
 
 
@@ -10,7 +18,6 @@ const container = {
 export default function Resume(){
     return(
         <div>
-            <h1>Resume:</h1>
             <div style={container}>
             <ul>
                 <h2>Front End: </h2>
