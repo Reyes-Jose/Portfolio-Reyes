@@ -3,7 +3,7 @@
         
 ## Description
         
-This is a portfolio page created using REACT.
+This is a single-page application portfolio built using REACT.
 
 ## Table of Contents
 - [Installation](#installation)
