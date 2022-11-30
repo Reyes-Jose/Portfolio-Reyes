@@ -6,7 +6,7 @@ import "./NavBarStyle.css"
 function NavBar( { currentPage, handlePageChange }){
   return (
     <nav className = "nav">
-      <a href="/" className="myName">Jose Reyes</a>
+      <h1>Jose Reyes</h1>
       <ul>
         <li>
           <a href="#About" 

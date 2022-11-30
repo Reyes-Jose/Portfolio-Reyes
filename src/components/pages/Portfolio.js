@@ -1,7 +1,7 @@
 import React from "react";
 import Moodboard from "../../images/moodboard.png";
 import RestReview from "../../images/RestReview.jpg";
-import WorkDayScheduler from "../../images/workdayscheduler.jpg";
+import StarChart from "../../images/StarChart.JPG"
 import CardGroup from "react-bootstrap/CardGroup";
 import Card from "react-bootstrap/Card";
 import { BsGithub } from "react-icons/bs";
@@ -58,17 +58,17 @@ export default function Portfolio() {
         </Card>
         <Card style={{ background: "#121212" }}>
           <Card.Body>
-            <Card.Img variant="top" src={WorkDayScheduler} />
+            <Card.Img variant="top" src={StarChart} />
             <Card.Title style={{ display: "flex", justifyContent: "center" }}>
-              Work Day Scheduler
+              Star Chart
             </Card.Title>
             <Card.Text
               style={{ display: "flex", justifyContent: "center", gap: "2rem" }}
             >
-              <a href="https://github.com/Reyes-Jose/Work-Day-Scheduler">
+              <a href="https://github.com/TottoMoe/star-chart">
                 <BsGithub size={50} style={{ color: "white" }} />
               </a>
-              <a href="https://reyes-jose.github.io/Work-Day-Scheduler/">
+              <a href="https://star-chart7.herokuapp.com/">
                 <BsGlobe size={50} style={{ color: "white" }} />
               </a>
             </Card.Text>
