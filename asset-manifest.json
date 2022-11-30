@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-reyes/static/css/main.36d1c8f1.chunk.css",
-    "main.js": "/portfolio-reyes/static/js/main.b638d2d6.chunk.js",
-    "main.js.map": "/portfolio-reyes/static/js/main.b638d2d6.chunk.js.map",
+    "main.js": "/portfolio-reyes/static/js/main.c1c99ecc.chunk.js",
+    "main.js.map": "/portfolio-reyes/static/js/main.c1c99ecc.chunk.js.map",
     "runtime-main.js": "/portfolio-reyes/static/js/runtime-main.9f0301fe.js",
     "runtime-main.js.map": "/portfolio-reyes/static/js/runtime-main.9f0301fe.js.map",
     "static/css/2.42d51ddf.chunk.css": "/portfolio-reyes/static/css/2.42d51ddf.chunk.css",
@@ -14,14 +14,14 @@
     "static/js/2.1814c614.chunk.js.LICENSE.txt": "/portfolio-reyes/static/js/2.1814c614.chunk.js.LICENSE.txt",
     "static/media/IMG-555.d5934bbc.jpg": "/portfolio-reyes/static/media/IMG-555.d5934bbc.jpg",
     "static/media/RestReview.adf58629.jpg": "/portfolio-reyes/static/media/RestReview.adf58629.jpg",
-    "static/media/moodboard.e8f6e5bb.png": "/portfolio-reyes/static/media/moodboard.e8f6e5bb.png",
-    "static/media/workdayscheduler.0853e8e3.jpg": "/portfolio-reyes/static/media/workdayscheduler.0853e8e3.jpg"
+    "static/media/StarChart.480b3dd7.JPG": "/portfolio-reyes/static/media/StarChart.480b3dd7.JPG",
+    "static/media/moodboard.e8f6e5bb.png": "/portfolio-reyes/static/media/moodboard.e8f6e5bb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f0301fe.js",
     "static/css/2.42d51ddf.chunk.css",
     "static/js/2.1814c614.chunk.js",
     "static/css/main.36d1c8f1.chunk.css",
-    "static/js/main.b638d2d6.chunk.js"
+    "static/js/main.c1c99ecc.chunk.js"
   ]
 }
